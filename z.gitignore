@@ -1,1 +1,7 @@
-add .gitignore for Python project
+__pycache__/
+*.pyc
+.env
+venv/
+*.log
+*.sqlite3
+.DS_Store
